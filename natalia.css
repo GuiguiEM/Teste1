@@ -9,9 +9,47 @@ body{
 }
 
 .triangulo-1{
-    width: 0; 
-  height: 0; 
-  border-left: 25px solid transparent;
-  border-right: 25px solid transparent;
-  border-bottom: 25px solid #5386E4;
-  }
+    width: 0px;
+    height: 0px;
+    top: 375px;
+    left: 680px;
+    position: absolute;
+    border-left: 160px solid transparent;
+    border-right: 160px solid transparent;
+    border-top: 260px solid #FF6D00;
+    z-index: 1;
+}
+
+.triangulo-2{
+    width: 0px;
+    height: 0px;
+    top: 375px;
+    left: 720px;
+    position: absolute;
+    border-left: 160px solid transparent;
+    border-right: 160px solid transparent;
+    border-top: 260px solid #FD4602;
+}
+
+.triangulo-3{
+    width: 0px;
+    height: 0px;
+    top: 375px;
+    left: 910px;
+    position: absolute;
+    border-left: 160px solid transparent;
+    border-right: 160px solid transparent;
+    border-bottom: 260px solid #FD4602;
+    z-index: 1;
+}
+
+.triangulo-4{
+    width: 0px;
+    height: 0px;
+    top: 375px;
+    left: 950px;
+    position: absolute;
+    border-left: 160px solid transparent;
+    border-right: 160px solid transparent;
+    border-bottom: 260px solid #FF6D00;
+}
