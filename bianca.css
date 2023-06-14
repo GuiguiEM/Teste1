@@ -42,17 +42,8 @@ body{
 }
 
 .quadrado-4{
-    width: 150px;
+    width: 1200px;
     height: 500px;
-    left: 357px;
-    position: absolute;
-    background-color: #243D83;
-}
-
-.quadrado-5{
-    width: 150px;
-    height: 500px;
-    left: 1373px;
     position: absolute;
     background-color: #243D83;
 }
