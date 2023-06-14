@@ -11,7 +11,7 @@ body{
 .quadrado-1{
     width: 175px;
     height: 175px;
-    top: 250px;
+    top: 325px;
     left: 500px;
     position: absolute;
     background-color: #998235;
@@ -21,7 +21,7 @@ body{
 .quadrado-2{
     width: 175px;
     height: 175px;
-    top: 250px;;
+    top: 325px;
     left: 750px;
     position: absolute;
     background-color: #F3AC3C;
@@ -32,7 +32,7 @@ body{
 .quadrado-3{
     width: 175px;
     height: 175px;
-    top: 250px;
+    top: 325px;
     left: 1000px;
     position: absolute;
     background-color: #998235;
@@ -43,7 +43,7 @@ body{
 .quadrado-4{
     width: 175px;
     height: 175px;
-    top: 250px;
+    top: 325px;
     left: 1250px;
     position: absolute;
     background-color: #F3AC3C;
@@ -53,7 +53,7 @@ body{
 .quadrado-5{
     width: 175px;
     height: 175px;
-    top: 500px;
+    top: 575px;
     left: 500px;
     position: absolute;
     background-color: #F3AC3C;
@@ -64,7 +64,7 @@ body{
 .quadrado-6{
     width: 175px;
     height: 175px;
-    top: 500px;
+    top: 575px;
     left: 750px;
     position: absolute;
     background-color: #998235;
@@ -74,7 +74,7 @@ body{
 .quadrado-7{
     width: 175px;
     height: 175px;
-    top: 500px;
+    top: 575px;
     left: 1000px;
     position: absolute;
     background-color: #F3AC3C;
@@ -84,7 +84,7 @@ body{
 .quadrado-8{
     width: 175px;
     height: 175px;
-    top: 500px;
+    top: 575px;
     left: 1250px;
     position: absolute;
     background-color: #998235;

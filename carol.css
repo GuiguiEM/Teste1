@@ -11,7 +11,7 @@ body{
 .quadrado-1{
     width: 225px;
     height: 225px;
-    top: 475px;
+    top: 500px;
     left: 625px;
     position: absolute;
     background-color: #F7EC7D;
@@ -22,7 +22,7 @@ body{
 .quadrado-2{
     width: 225px;
     height: 225px;
-    top: 250px;
+    top: 275px;
     left: 850px;
     position: absolute;
     background-color: #F7EC7D;
@@ -33,7 +33,7 @@ body{
 .quadrado-3{
     width: 225px;
     height: 225px;
-    top: 475px;
+    top: 500px;
     left: 1075px;
     position: absolute;
     background-color: #F7EC7D;
